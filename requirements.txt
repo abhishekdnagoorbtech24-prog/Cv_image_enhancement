@@ -1,0 +1,10 @@
+gradio>=6.0,<7
+torch>=2.1
+numpy>=1.24
+opencv-python-headless>=4.8
+scikit-image>=0.22
+scipy>=1.10
+pandas>=2.0
+pillow>=10
+matplotlib>=3.7
+# optional, for official metrics (need internet for weights): pip install lpips pyiqa
